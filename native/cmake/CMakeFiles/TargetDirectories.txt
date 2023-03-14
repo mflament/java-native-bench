@@ -1,0 +1,4 @@
+C:/dev/java/tests/java-native-bench/native/target/cmake/CMakeFiles/jnb-native.dir
+C:/dev/java/tests/java-native-bench/native/target/cmake/CMakeFiles/benchmark.dir
+C:/dev/java/tests/java-native-bench/native/target/cmake/CMakeFiles/ALL_BUILD.dir
+C:/dev/java/tests/java-native-bench/native/target/cmake/CMakeFiles/ZERO_CHECK.dir

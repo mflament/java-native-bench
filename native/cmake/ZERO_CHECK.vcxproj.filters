@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\java\tests\java-native-bench\native\target\cmake\CMakeFiles\28c2275b37cee34749c079d65a27990a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CD152564-0F0A-3595-B22B-B95DA404CAA4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
