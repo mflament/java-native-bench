@@ -15,6 +15,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.9.2</junit.version>
         <cmake-plugin.version>3.23.2-b1</cmake-plugin.version>
+        <lwjgl.version>3.3.1</lwjgl.version>
     </properties>
 
     <modules>
@@ -57,6 +58,18 @@
                 <groupId>net.java.dev.jna</groupId>
                 <artifactId>jna</artifactId>
                 <version>5.13.0</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.lwjgl</groupId>
+                <artifactId>lwjgl</artifactId>
+                <version>${lwjgl.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.lwjgl</groupId>
+                <artifactId>lwjgl</artifactId>
+                <version>${lwjgl.version}</version>
+                <classifier>natives-${platform}</classifier>
             </dependency>
 
             <dependency>
